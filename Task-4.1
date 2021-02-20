@@ -1,0 +1,12 @@
+def calc_salary(*args):
+    check = True
+    for i in range(2, len(args[0])):
+        try:
+            args[0][i] = float(args[0][i])
+        except ValueError:
+            check = False
+    if len(args[0]) == 3 and check:
+        print(f"Заработная плата сотрудника {(args[0][0] * args[0][1] + args[0][2]):.2f} р.")
+
+argv = [168, 340, 2000]
+calc_salary(argv)
