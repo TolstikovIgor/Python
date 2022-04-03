@@ -2,7 +2,7 @@
 ![](logo.png)
 #### Факультет Data Engineering
 ___
-#### Курсовой проект
+#### [Курсовой проект](https://github.com/TolstikovIgor/PythonBasics/tree/main/lesson8)
 Игра "Лото" между пользователем и компьтером
 ___
 #### [Урок 1. Знакомство с Python](https://github.com/TolstikovIgor/PythonBasics/tree/main/lesson1)
