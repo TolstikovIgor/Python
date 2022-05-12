@@ -3,7 +3,7 @@
 #### Факультет Data Engineering
 ___
 #### [Курсовой проект](https://github.com/TolstikovIgor/PythonBasics/tree/main/lesson8)
-Игра "Лото" между пользователем и компьтером
+Игра "Лото" между пользователем и компьютером
 ___
 #### [Урок 1. Знакомство с Python](https://github.com/TolstikovIgor/PythonBasics/tree/main/lesson1)
 1. Установили интерпретатор Python и среду разработки PyCharm.
